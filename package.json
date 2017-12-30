@@ -1,0 +1,24 @@
+{
+  "name": "mc",
+  "version": "1.0.0",
+  "description": "List of mails integrated and maintained in Mailchimp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexstrack/mc.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "mail",
+    "list"
+  ],
+  "author": "Alexandro Strack [alexandrostrack@gmail.com]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexstrack/mc/issues"
+  },
+  "homepage": "https://github.com/alexstrack/mc#readme"
+}
